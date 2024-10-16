@@ -1,43 +1,43 @@
 [
     {
-        "colo": "Default",
-        "ip": "172.67.40.105",
-        "latency": 197,
+        "colo": "SJC",
+        "ip": "172.64.166.147",
+        "latency": 186,
         "line": "CM",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 770,
-        "time": "2024-10-16 05:53:33"
+        "node": "SDO_HNCM",
+        "speed": 945,
+        "time": "2024-10-16 05:59:28"
     },
     {
         "colo": "IAD",
-        "ip": "172.67.127.219",
+        "ip": "172.67.101.90",
         "latency": 208,
         "line": "CM",
         "loss": 0,
         "node": "SDO_HNCM",
         "speed": 750,
-        "time": "2024-10-16 05:49:29"
+        "time": "2024-10-16 05:59:29"
     },
     {
-        "colo": "SJC",
-        "ip": "141.101.114.166",
-        "latency": 188,
+        "colo": "LHR",
+        "ip": "172.67.153.90",
+        "latency": 190,
         "line": "CM",
         "loss": 0,
         "node": "SDO_HNCM",
-        "speed": 510,
-        "time": "2024-10-16 05:49:30"
+        "speed": 655,
+        "time": "2024-10-16 05:59:29"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.73.66",
-        "latency": 194,
+        "colo": "LHR",
+        "ip": "172.67.185.75",
+        "latency": 208,
         "line": "CM",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 360,
-        "time": "2024-10-16 05:53:36"
+        "node": "SDO_HNCM",
+        "speed": 640,
+        "time": "2024-10-16 05:59:29"
     },
     {
         "colo": "Default",
@@ -50,44 +50,44 @@
         "time": "2024-10-16 05:53:36"
     },
     {
+        "colo": "Default",
+        "ip": "162.159.130.148",
+        "latency": 142,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 1515,
+        "time": "2024-10-16 05:55:42"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.64.164.212",
+        "latency": 178,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 1020,
+        "time": "2024-10-16 05:55:43"
+    },
+    {
+        "colo": "Default",
+        "ip": "162.159.253.28",
+        "latency": 175,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 905,
+        "time": "2024-10-16 05:55:43"
+    },
+    {
         "colo": "SJC",
-        "ip": "173.245.49.56",
-        "latency": 151,
+        "ip": "172.64.68.182",
+        "latency": 137,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 795,
-        "time": "2024-10-16 05:51:37"
-    },
-    {
-        "colo": "HKG",
-        "ip": "172.67.18.233",
-        "latency": 188,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 770,
-        "time": "2024-10-16 05:43:55"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.56.165",
-        "latency": 224,
-        "line": "CT",
-        "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 725,
-        "time": "2024-10-16 05:49:52"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.64.99.117",
-        "latency": 139,
-        "line": "CT",
-        "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 700,
-        "time": "2024-10-16 05:43:53"
+        "speed": 720,
+        "time": "2024-10-16 05:58:07"
     },
     {
         "colo": "LHR",
@@ -121,16 +121,6 @@
     },
     {
         "colo": "LAX",
-        "ip": "172.64.163.24",
-        "latency": 194,
-        "line": "CU",
-        "loss": 0,
-        "node": "TTY_SDCU",
-        "speed": 575,
-        "time": "2024-10-16 05:37:04"
-    },
-    {
-        "colo": "LAX",
         "ip": "172.67.180.178",
         "latency": 191,
         "line": "CU",
@@ -148,5 +138,15 @@
         "node": "TTY_SDCU",
         "speed": 535,
         "time": "2024-10-16 05:43:53"
+    },
+    {
+        "colo": "LAX",
+        "ip": "172.67.15.216",
+        "latency": 191,
+        "line": "CU",
+        "loss": 0,
+        "node": "TTY_SDCU",
+        "speed": 330,
+        "time": "2024-10-16 05:57:26"
     }
 ]
