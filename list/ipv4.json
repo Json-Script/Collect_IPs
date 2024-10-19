@@ -50,54 +50,54 @@
         "time": "2024-10-18 17:33:23"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.191.2",
-        "latency": 234,
+        "colo": "IAD",
+        "ip": "172.67.107.142",
+        "latency": 200,
         "line": "CT",
         "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 725,
-        "time": "2024-10-18 17:49:34"
+        "node": "SDO_ZJCT",
+        "speed": 775,
+        "time": "2024-10-18 17:55:35"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.212.246",
-        "latency": 221,
+        "ip": "172.67.223.237",
+        "latency": 204,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 705,
-        "time": "2024-10-18 17:49:31"
+        "node": "SDO_ZJCT",
+        "speed": 640,
+        "time": "2024-10-18 17:55:35"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.86.158",
-        "latency": 254,
-        "line": "CT",
-        "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 500,
-        "time": "2024-10-18 17:49:35"
-    },
-    {
-        "colo": "HKG",
-        "ip": "172.67.32.87",
-        "latency": 180,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 310,
-        "time": "2024-10-18 17:49:33"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.137.163",
-        "latency": 178,
+        "colo": "SJC",
+        "ip": "172.64.133.43",
+        "latency": 162,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 290,
-        "time": "2024-10-18 17:45:53"
+        "time": "2024-10-18 17:55:48"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.199.235",
+        "latency": 156,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 260,
+        "time": "2024-10-18 17:55:34"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.242.117",
+        "latency": 156,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 250,
+        "time": "2024-10-18 17:55:20"
     },
     {
         "colo": "HKG",
