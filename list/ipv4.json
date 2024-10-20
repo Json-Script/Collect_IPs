@@ -50,16 +50,6 @@
         "time": "2024-10-19 15:43:04"
     },
     {
-        "colo": "SJC",
-        "ip": "172.64.192.30",
-        "latency": 203,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 1125,
-        "time": "2024-10-19 15:43:29"
-    },
-    {
         "colo": "LAX",
         "ip": "104.16.126.102",
         "latency": 162,
@@ -68,6 +58,16 @@
         "node": "QIXJSCT",
         "speed": 310,
         "time": "2024-10-19 15:43:33"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.241.219",
+        "latency": 164,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2024-10-19 15:45:39"
     },
     {
         "colo": "HKG",
