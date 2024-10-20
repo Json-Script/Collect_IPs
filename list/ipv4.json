@@ -1,16 +1,6 @@
 [
     {
         "colo": "Default",
-        "ip": "172.64.193.151",
-        "latency": 205,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 870,
-        "time": "2024-10-20 06:20:24"
-    },
-    {
-        "colo": "Default",
         "ip": "172.67.184.139",
         "latency": 165,
         "line": "CM",
@@ -28,6 +18,16 @@
         "node": "51C_SDCM",
         "speed": 620,
         "time": "2024-10-20 06:30:46"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.152.161",
+        "latency": 192,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 590,
+        "time": "2024-10-20 06:44:42"
     },
     {
         "colo": "Default",
@@ -50,24 +50,34 @@
         "time": "2024-10-20 06:30:46"
     },
     {
-        "colo": "LAX",
-        "ip": "162.159.250.128",
-        "latency": 170,
+        "colo": "Default",
+        "ip": "172.67.195.108",
+        "latency": 207,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 1405,
-        "time": "2024-10-20 06:39:30"
+        "node": "YADUN_SDCT",
+        "speed": 1490,
+        "time": "2024-10-20 06:42:31"
     },
     {
-        "colo": "IAD",
-        "ip": "172.67.62.206",
-        "latency": 242,
+        "colo": "Default",
+        "ip": "172.64.96.151",
+        "latency": 141,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 835,
+        "time": "2024-10-20 06:48:23"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.144.212",
+        "latency": 231,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 750,
-        "time": "2024-10-20 06:39:31"
+        "speed": 745,
+        "time": "2024-10-20 06:49:31"
     },
     {
         "colo": "IAD",
@@ -88,16 +98,6 @@
         "node": "SDO_ZJCT",
         "speed": 640,
         "time": "2024-10-20 06:41:42"
-    },
-    {
-        "colo": "SJC",
-        "ip": "162.159.152.85",
-        "latency": 200,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 500,
-        "time": "2024-10-20 06:39:32"
     },
     {
         "colo": "HKG",
