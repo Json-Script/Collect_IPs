@@ -1,103 +1,103 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.211.159",
-        "latency": 167,
+        "ip": "172.64.203.2",
+        "latency": 174,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 1010,
-        "time": "2024-10-21 13:52:05"
+        "speed": 980,
+        "time": "2024-10-21 14:35:40"
     },
     {
         "colo": "Default",
-        "ip": "172.67.193.198",
-        "latency": 203,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 625,
-        "time": "2024-10-21 13:44:08"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.64.166.12",
-        "latency": 198,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 360,
-        "time": "2024-10-21 13:52:08"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.218.195",
+        "ip": "141.101.123.217",
         "latency": 205,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 270,
-        "time": "2024-10-21 13:52:08"
-    },
-    {
-        "colo": "SEA",
-        "ip": "141.101.115.15",
-        "latency": 58,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 265,
-        "time": "2024-10-21 13:51:32"
+        "speed": 680,
+        "time": "2024-10-21 14:35:41"
     },
     {
         "colo": "Default",
-        "ip": "172.67.160.190",
-        "latency": 237,
-        "line": "CT",
+        "ip": "172.67.199.225",
+        "latency": 216,
+        "line": "CM",
         "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 1260,
-        "time": "2024-10-21 13:55:52"
+        "node": "51C_SDCM",
+        "speed": 665,
+        "time": "2024-10-21 14:41:29"
     },
     {
-        "colo": "LHR",
-        "ip": "172.67.147.94",
-        "latency": 194,
-        "line": "CT",
+        "colo": "Default",
+        "ip": "172.67.134.248",
+        "latency": 168,
+        "line": "CM",
         "loss": 0,
-        "node": "SDO_ZJCT",
-        "speed": 865,
-        "time": "2024-10-21 13:54:40"
+        "node": "51C_SDCM",
+        "speed": 295,
+        "time": "2024-10-21 14:29:48"
     },
     {
-        "colo": "LAX",
-        "ip": "104.21.235.38",
+        "colo": "Default",
+        "ip": "172.67.21.181",
+        "latency": 203,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 280,
+        "time": "2024-10-21 14:29:48"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.64.131.171",
         "latency": 169,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-10-21 13:53:30"
+        "node": "YADUN_SDCT",
+        "speed": 1245,
+        "time": "2024-10-21 14:40:49"
     },
     {
-        "colo": "LAX",
-        "ip": "104.21.226.116",
-        "latency": 156,
+        "colo": "Default",
+        "ip": "172.64.98.72",
+        "latency": 151,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 775,
+        "time": "2024-10-21 14:35:15"
+    },
+    {
+        "colo": "SJC",
+        "ip": "172.64.205.97",
+        "latency": 154,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 485,
+        "time": "2024-10-21 14:36:06"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.19.68.90",
+        "latency": 168,
         "line": "CT",
         "loss": 0,
         "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-10-21 13:53:23"
+        "speed": 305,
+        "time": "2024-10-21 14:33:36"
     },
     {
-        "colo": "LHR",
-        "ip": "104.21.56.228",
-        "latency": 173,
+        "colo": "SJC",
+        "ip": "104.19.3.37",
+        "latency": 162,
         "line": "CT",
         "loss": 0,
         "node": "QIXJSCT",
-        "speed": 275,
-        "time": "2024-10-21 13:53:36"
+        "speed": 290,
+        "time": "2024-10-21 14:33:30"
     },
     {
         "colo": "HKG",
