@@ -41,63 +41,63 @@
     },
     {
         "colo": "HKG",
-        "ip": "162.159.134.91",
-        "latency": 54,
+        "ip": "162.159.138.35",
+        "latency": 55,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
         "speed": 260,
-        "time": "2024-10-25 19:28:06"
+        "time": "2024-10-25 19:47:29"
+    },
+    {
+        "colo": "IAD",
+        "ip": "172.67.57.233",
+        "latency": 237,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 740,
+        "time": "2024-10-25 19:44:17"
     },
     {
         "colo": "Default",
-        "ip": "162.159.253.187",
-        "latency": 179,
+        "ip": "172.67.13.174",
+        "latency": 234,
         "line": "CT",
         "loss": 0,
         "node": "YADUN_SDCT",
-        "speed": 870,
-        "time": "2024-10-25 19:36:42"
+        "speed": 535,
+        "time": "2024-10-25 19:47:57"
     },
     {
         "colo": "Default",
-        "ip": "172.67.83.59",
-        "latency": 225,
+        "ip": "172.67.37.51",
+        "latency": 201,
         "line": "CT",
         "loss": 0,
         "node": "YADUN_SDCT",
-        "speed": 500,
-        "time": "2024-10-25 19:36:43"
+        "speed": 520,
+        "time": "2024-10-25 19:47:57"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.110.10",
-        "latency": 240,
-        "line": "CT",
-        "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 500,
-        "time": "2024-10-25 19:36:44"
-    },
-    {
-        "colo": "SJC",
-        "ip": "172.64.169.194",
-        "latency": 129,
+        "colo": "LHR",
+        "ip": "172.67.229.0",
+        "latency": 181,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 290,
-        "time": "2024-10-25 19:35:09"
+        "time": "2024-10-25 19:45:39"
     },
     {
-        "colo": "SJC",
-        "ip": "172.64.96.106",
-        "latency": 161,
+        "colo": "HKG",
+        "ip": "104.17.68.20",
+        "latency": 169,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 275,
-        "time": "2024-10-25 19:35:25"
+        "speed": 245,
+        "time": "2024-10-25 19:45:10"
     },
     {
         "colo": "HKG",
