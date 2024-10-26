@@ -21,6 +21,16 @@
     },
     {
         "colo": "Default",
+        "ip": "172.67.103.204",
+        "latency": 184,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 750,
+        "time": "2024-10-26 03:44:57"
+    },
+    {
+        "colo": "Default",
         "ip": "172.67.198.191",
         "latency": 201,
         "line": "CM",
@@ -28,16 +38,6 @@
         "node": "51C_SDCM",
         "speed": 740,
         "time": "2024-10-26 03:38:21"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.191.105",
-        "latency": 164,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 635,
-        "time": "2024-10-26 03:26:33"
     },
     {
         "colo": "Default",
@@ -50,24 +50,24 @@
         "time": "2024-10-26 03:32:27"
     },
     {
-        "colo": "SJC",
-        "ip": "172.64.196.96",
-        "latency": 157,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 895,
-        "time": "2024-10-26 03:39:33"
-    },
-    {
-        "colo": "LHR",
-        "ip": "172.67.147.141",
-        "latency": 208,
+        "colo": "IAD",
+        "ip": "172.67.99.106",
+        "latency": 214,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
         "speed": 805,
-        "time": "2024-10-26 03:39:33"
+        "time": "2024-10-26 03:49:34"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.220.133",
+        "latency": 207,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 645,
+        "time": "2024-10-26 03:49:34"
     },
     {
         "colo": "IAD",
@@ -81,13 +81,13 @@
     },
     {
         "colo": "LHR",
-        "ip": "172.67.168.102",
-        "latency": 197,
+        "ip": "172.67.248.184",
+        "latency": 196,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_ZJCT",
+        "node": "SDO_HBCT",
         "speed": 625,
-        "time": "2024-10-26 03:38:36"
+        "time": "2024-10-26 03:49:34"
     },
     {
         "colo": "SJC",
