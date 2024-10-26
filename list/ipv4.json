@@ -11,23 +11,23 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.206.170",
-        "latency": 202,
+        "ip": "172.67.118.35",
+        "latency": 215,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 750,
-        "time": "2024-10-25 19:25:47"
+        "speed": 775,
+        "time": "2024-10-25 19:40:09"
     },
     {
-        "colo": "Default",
-        "ip": "172.64.131.146",
-        "latency": 184,
+        "colo": "HKG",
+        "ip": "162.159.130.64",
+        "latency": 55,
         "line": "CM",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 610,
-        "time": "2024-10-25 19:25:48"
+        "node": "CDCM",
+        "speed": 310,
+        "time": "2024-10-25 19:38:05"
     },
     {
         "colo": "HKG",
@@ -50,6 +50,36 @@
         "time": "2024-10-25 19:28:06"
     },
     {
+        "colo": "Default",
+        "ip": "162.159.253.187",
+        "latency": 179,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 870,
+        "time": "2024-10-25 19:36:42"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.83.59",
+        "latency": 225,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 500,
+        "time": "2024-10-25 19:36:43"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.110.10",
+        "latency": 240,
+        "line": "CT",
+        "loss": 0,
+        "node": "YADUN_SDCT",
+        "speed": 500,
+        "time": "2024-10-25 19:36:44"
+    },
+    {
         "colo": "SJC",
         "ip": "172.64.169.194",
         "latency": 129,
@@ -68,36 +98,6 @@
         "node": "QYZJBGP",
         "speed": 275,
         "time": "2024-10-25 19:35:25"
-    },
-    {
-        "colo": "IAD",
-        "ip": "104.27.74.170",
-        "latency": 223,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 265,
-        "time": "2024-10-25 19:33:50"
-    },
-    {
-        "colo": "IAD",
-        "ip": "104.20.139.6",
-        "latency": 218,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 265,
-        "time": "2024-10-25 19:33:35"
-    },
-    {
-        "colo": "IAD",
-        "ip": "104.24.3.224",
-        "latency": 217,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 245,
-        "time": "2024-10-25 19:33:29"
     },
     {
         "colo": "HKG",
