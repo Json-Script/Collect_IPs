@@ -51,33 +51,23 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.17.192",
-        "latency": 189,
+        "ip": "172.67.53.154",
+        "latency": 225,
         "line": "CT",
         "loss": 0,
         "node": "YADUN_SDCT",
-        "speed": 340,
-        "time": "2024-10-28 21:44:50"
+        "speed": 605,
+        "time": "2024-10-28 21:50:20"
     },
     {
-        "colo": "IAD",
-        "ip": "104.22.72.105",
-        "latency": 202,
+        "colo": "LHR",
+        "ip": "172.67.238.67",
+        "latency": 183,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-10-28 21:43:39"
-    },
-    {
-        "colo": "HKG",
-        "ip": "104.17.78.138",
-        "latency": 182,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 295,
-        "time": "2024-10-28 21:43:33"
+        "node": "SDO_ZJCT",
+        "speed": 355,
+        "time": "2024-10-28 21:50:02"
     },
     {
         "colo": "LAX",
@@ -98,6 +88,16 @@
         "node": "QYZJBGP",
         "speed": 225,
         "time": "2024-10-28 21:45:23"
+    },
+    {
+        "colo": "LHR",
+        "ip": "104.21.11.13",
+        "latency": 181,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 215,
+        "time": "2024-10-28 21:45:53"
     },
     {
         "colo": "HKG",
@@ -131,16 +131,6 @@
     },
     {
         "colo": "HKG",
-        "ip": "104.20.16.36",
-        "latency": 122,
-        "line": "CU",
-        "loss": 0,
-        "node": "EJIA_CU",
-        "speed": 260,
-        "time": "2024-10-28 16:25:46"
-    },
-    {
-        "colo": "HKG",
         "ip": "104.20.16.191",
         "latency": 120,
         "line": "CU",
@@ -148,5 +138,15 @@
         "node": "EJIA_CU",
         "speed": 260,
         "time": "2024-10-28 16:25:40"
+    },
+    {
+        "colo": "HKG",
+        "ip": "104.20.16.36",
+        "latency": 122,
+        "line": "CU",
+        "loss": 0,
+        "node": "EJIA_CU",
+        "speed": 260,
+        "time": "2024-10-28 16:25:46"
     }
 ]
