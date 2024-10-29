@@ -21,16 +21,6 @@
     },
     {
         "colo": "Default",
-        "ip": "172.64.134.158",
-        "latency": 183,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 905,
-        "time": "2024-10-29 05:16:38"
-    },
-    {
-        "colo": "Default",
         "ip": "172.64.128.203",
         "latency": 177,
         "line": "CM",
@@ -38,6 +28,16 @@
         "node": "51C_SDCM",
         "speed": 865,
         "time": "2024-10-29 05:29:54"
+    },
+    {
+        "colo": "Default",
+        "ip": "162.159.152.10",
+        "latency": 51,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 485,
+        "time": "2024-10-29 05:35:44"
     },
     {
         "colo": "Default",
@@ -61,23 +61,13 @@
     },
     {
         "colo": "Default",
-        "ip": "162.159.138.75",
-        "latency": 158,
+        "ip": "162.159.252.206",
+        "latency": 148,
         "line": "CT",
         "loss": 0,
         "node": "YADUN_SDCT",
-        "speed": 1500,
-        "time": "2024-10-29 05:29:47"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.64.198.101",
-        "latency": 165,
-        "line": "CT",
-        "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 905,
-        "time": "2024-10-29 05:29:48"
+        "speed": 1520,
+        "time": "2024-10-29 05:35:36"
     },
     {
         "colo": "LHR",
@@ -90,14 +80,24 @@
         "time": "2024-10-29 05:31:47"
     },
     {
-        "colo": "SJC",
-        "ip": "162.159.194.68",
-        "latency": 142,
+        "colo": "Default",
+        "ip": "172.67.2.9",
+        "latency": 224,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 560,
-        "time": "2024-10-29 05:29:36"
+        "node": "YADUN_SDCT",
+        "speed": 575,
+        "time": "2024-10-29 05:35:38"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.16.119.190",
+        "latency": 139,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2024-10-29 05:35:51"
     },
     {
         "colo": "HKG",
