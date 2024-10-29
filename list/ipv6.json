@@ -61,16 +61,6 @@
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:3013:a7b4:809:924d:89e1:ae8d",
-        "latency": 1,
-        "line": "CT",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 308,
-        "time": "2024-10-29 05:45:27"
-    },
-    {
-        "colo": "Default",
         "ip": "2606:4700:3013:d30:2ee1:384b:554d:6dfc",
         "latency": 1,
         "line": "CT",
@@ -92,6 +82,16 @@
     {
         "colo": "Default",
         "ip": "2606:4700:3013:b449:3360:9edb:93e5:451e",
+        "latency": 1,
+        "line": "CT",
+        "loss": 0,
+        "node": "WEBH",
+        "speed": 308,
+        "time": "2024-10-29 05:45:27"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:3013:a7b4:809:924d:89e1:ae8d",
         "latency": 1,
         "line": "CT",
         "loss": 0,
