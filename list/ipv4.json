@@ -50,54 +50,54 @@
         "time": "2024-11-02 06:27:59"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.43.76",
-        "latency": 182,
-        "line": "CT",
-        "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 900,
-        "time": "2024-11-02 06:31:06"
-    },
-    {
-        "colo": "IAD",
-        "ip": "172.67.51.5",
-        "latency": 193,
+        "colo": "SJC",
+        "ip": "172.64.174.45",
+        "latency": 143,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 870,
-        "time": "2024-11-02 06:31:15"
+        "speed": 1120,
+        "time": "2024-11-02 06:39:40"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.200.98",
-        "latency": 198,
+        "ip": "172.67.227.147",
+        "latency": 207,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 645,
+        "time": "2024-11-02 06:39:38"
+    },
+    {
+        "colo": "HKG",
+        "ip": "172.67.38.115",
+        "latency": 165,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 805,
-        "time": "2024-11-02 06:31:15"
+        "speed": 625,
+        "time": "2024-11-02 06:39:42"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.11.240",
-        "latency": 230,
+        "colo": "HKG",
+        "ip": "172.67.19.2",
+        "latency": 172,
         "line": "CT",
         "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 745,
-        "time": "2024-11-02 06:31:06"
+        "node": "SDO_HBCT",
+        "speed": 590,
+        "time": "2024-11-02 06:39:38"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.241.101",
-        "latency": 205,
+        "colo": "SJC",
+        "ip": "162.159.137.28",
+        "latency": 142,
         "line": "CT",
         "loss": 0,
-        "node": "YADUN_SDCT",
-        "speed": 720,
-        "time": "2024-11-02 06:31:06"
+        "node": "SDO_HBCT",
+        "speed": 560,
+        "time": "2024-11-02 06:39:38"
     },
     {
         "colo": "HKG",
