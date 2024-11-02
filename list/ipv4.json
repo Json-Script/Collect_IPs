@@ -1,13 +1,23 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.138.253",
-        "latency": 237,
+        "ip": "162.159.252.35",
+        "latency": 208,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 1060,
-        "time": "2024-11-01 14:24:00"
+        "speed": 775,
+        "time": "2024-11-01 14:51:20"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.64.164.39",
+        "latency": 203,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 685,
+        "time": "2024-11-01 14:51:20"
     },
     {
         "colo": "Default",
@@ -30,16 +40,6 @@
         "time": "2024-11-01 14:31:49"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.82.14",
-        "latency": 174,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 490,
-        "time": "2024-11-01 14:24:02"
-    },
-    {
         "colo": "HKG",
         "ip": "162.159.130.73",
         "latency": 55,
@@ -50,24 +50,34 @@
         "time": "2024-11-01 14:46:20"
     },
     {
-        "colo": "LAX",
-        "ip": "104.16.114.221",
-        "latency": 161,
+        "colo": "LHR",
+        "ip": "172.67.226.132",
+        "latency": 221,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 280,
-        "time": "2024-11-01 14:43:29"
+        "node": "SDO_ZJCT",
+        "speed": 895,
+        "time": "2024-11-01 14:53:06"
     },
     {
         "colo": "LAX",
-        "ip": "104.19.245.115",
-        "latency": 162,
+        "ip": "162.159.253.151",
+        "latency": 143,
         "line": "CT",
         "loss": 0,
         "node": "QIXJSCT",
-        "speed": 270,
-        "time": "2024-11-01 14:43:36"
+        "speed": 305,
+        "time": "2024-11-01 14:53:17"
+    },
+    {
+        "colo": "LAX",
+        "ip": "104.19.241.143",
+        "latency": 147,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 260,
+        "time": "2024-11-01 14:53:23"
     },
     {
         "colo": "IAD",
@@ -78,16 +88,6 @@
         "node": "QYZJBGP",
         "speed": 215,
         "time": "2024-11-01 14:45:44"
-    },
-    {
-        "colo": "SJC",
-        "ip": "172.64.108.34",
-        "latency": 183,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 165,
-        "time": "2024-11-01 14:45:09"
     },
     {
         "colo": "IAD",
