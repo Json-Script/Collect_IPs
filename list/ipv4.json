@@ -11,33 +11,33 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.134.190",
-        "latency": 244,
+        "ip": "172.67.10.11",
+        "latency": 238,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 905,
-        "time": "2024-11-02 22:27:26"
+        "speed": 975,
+        "time": "2024-11-02 22:48:40"
     },
     {
         "colo": "Default",
-        "ip": "162.159.250.65",
-        "latency": 196,
+        "ip": "172.64.193.116",
+        "latency": 174,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 795,
-        "time": "2024-11-02 22:33:12"
+        "speed": 720,
+        "time": "2024-11-02 22:48:40"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.201.205",
-        "latency": 202,
+        "colo": "HKG",
+        "ip": "162.159.134.192",
+        "latency": 55,
         "line": "CM",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 775,
-        "time": "2024-11-02 22:33:13"
+        "node": "CDCM",
+        "speed": 290,
+        "time": "2024-11-02 22:49:44"
     },
     {
         "colo": "HKG",
@@ -50,6 +50,16 @@
         "time": "2024-11-02 22:40:29"
     },
     {
+        "colo": "LHR",
+        "ip": "172.67.225.197",
+        "latency": 221,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_HBCT",
+        "speed": 685,
+        "time": "2024-11-02 22:49:37"
+    },
+    {
         "colo": "LAX",
         "ip": "162.159.240.237",
         "latency": 159,
@@ -60,34 +70,24 @@
         "time": "2024-11-02 22:45:08"
     },
     {
-        "colo": "HKG",
-        "ip": "104.17.64.65",
-        "latency": 182,
+        "colo": "IAD",
+        "ip": "104.23.135.10",
+        "latency": 201,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-02 22:43:38"
+        "node": "QYZJBGP",
+        "speed": 215,
+        "time": "2024-11-02 22:45:59"
     },
     {
         "colo": "HKG",
-        "ip": "104.22.61.158",
-        "latency": 177,
+        "ip": "104.16.212.149",
+        "latency": 188,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 290,
-        "time": "2024-11-02 22:43:32"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.18.117.114",
-        "latency": 177,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 275,
-        "time": "2024-11-02 22:43:25"
+        "node": "QYZJBGP",
+        "speed": 215,
+        "time": "2024-11-02 22:45:30"
     },
     {
         "colo": "LAX",
