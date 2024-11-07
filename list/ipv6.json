@@ -1,16 +1,6 @@
 [
     {
         "colo": "Default",
-        "ip": "2606:4700:9ad0:3f11:c127:8db3:b82e:9dae",
-        "latency": 2,
-        "line": "CM",
-        "loss": 0,
-        "node": "WW_HK",
-        "speed": 308,
-        "time": "2024-11-06 22:46:32"
-    },
-    {
-        "colo": "Default",
         "ip": "2606:4700:3031:5846:2fe4:5c0d:707a:2c5a",
         "latency": 1,
         "line": "CM",
@@ -28,6 +18,16 @@
         "node": "WW_HK",
         "speed": 308,
         "time": "2024-11-06 22:46:31"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:9ad0:3f11:c127:8db3:b82e:9dae",
+        "latency": 2,
+        "line": "CM",
+        "loss": 0,
+        "node": "WW_HK",
+        "speed": 308,
+        "time": "2024-11-06 22:46:32"
     },
     {
         "colo": "Default",
@@ -81,16 +81,6 @@
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:9c62:dee4:dddc:b24c:885a:396a",
-        "latency": 24,
-        "line": "CT",
-        "loss": 0,
-        "node": "WEBH",
-        "speed": 308,
-        "time": "2024-11-06 22:45:21"
-    },
-    {
-        "colo": "Default",
         "ip": "2606:4700:9c62:1114:816a:51f8:e0ff:beb8",
         "latency": 20,
         "line": "CT",
@@ -101,13 +91,13 @@
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:9ad0:3f11:c127:8db3:b82e:9dae",
-        "latency": 2,
-        "line": "CU",
+        "ip": "2606:4700:9c62:dee4:dddc:b24c:885a:396a",
+        "latency": 24,
+        "line": "CT",
         "loss": 0,
-        "node": "WW_HK",
+        "node": "WEBH",
         "speed": 308,
-        "time": "2024-11-06 22:46:32"
+        "time": "2024-11-06 22:45:21"
     },
     {
         "colo": "Default",
@@ -128,6 +118,16 @@
         "node": "WW_HK",
         "speed": 308,
         "time": "2024-11-06 22:46:31"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:9ad0:3f11:c127:8db3:b82e:9dae",
+        "latency": 2,
+        "line": "CU",
+        "loss": 0,
+        "node": "WW_HK",
+        "speed": 308,
+        "time": "2024-11-06 22:46:32"
     },
     {
         "colo": "Default",
