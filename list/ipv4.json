@@ -70,44 +70,34 @@
         "time": "2024-11-10 03:33:40"
     },
     {
-        "colo": "LAX",
-        "ip": "162.159.249.36",
-        "latency": 171,
+        "colo": "LHR",
+        "ip": "172.67.205.110",
+        "latency": 182,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 625,
-        "time": "2024-11-10 03:29:41"
+        "speed": 775,
+        "time": "2024-11-10 03:39:41"
     },
     {
-        "colo": "LAX",
-        "ip": "162.159.249.55",
-        "latency": 159,
+        "colo": "LHR",
+        "ip": "172.67.237.146",
+        "latency": 209,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 620,
-        "time": "2024-11-10 03:29:41"
+        "speed": 645,
+        "time": "2024-11-10 03:39:41"
     },
     {
         "colo": "SJC",
-        "ip": "141.101.122.216",
-        "latency": 179,
+        "ip": "190.93.247.62",
+        "latency": 162,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 530,
-        "time": "2024-11-10 03:29:42"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.64.173.87",
-        "latency": 59,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 2200,
-        "time": "2024-11-10 03:09:23"
+        "speed": 565,
+        "time": "2024-11-10 03:39:42"
     },
     {
         "colo": "NRT",
@@ -121,13 +111,13 @@
     },
     {
         "colo": "NRT",
-        "ip": "162.159.246.182",
-        "latency": 59,
+        "ip": "172.67.127.37",
+        "latency": 55,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 720,
-        "time": "2024-11-10 03:29:25"
+        "speed": 830,
+        "time": "2024-11-10 03:39:25"
     },
     {
         "colo": "CDG",
@@ -138,6 +128,16 @@
         "node": "KXY_BJCU",
         "speed": 720,
         "time": "2024-11-10 03:19:25"
+    },
+    {
+        "colo": "NRT",
+        "ip": "162.159.246.182",
+        "latency": 59,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 720,
+        "time": "2024-11-10 03:29:25"
     },
     {
         "colo": "HKG",
