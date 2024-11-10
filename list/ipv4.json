@@ -51,53 +51,53 @@
     },
     {
         "colo": "IAD",
-        "ip": "172.67.109.250",
-        "latency": 218,
+        "ip": "172.67.112.52",
+        "latency": 206,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 830,
-        "time": "2024-11-09 19:49:40"
+        "node": "SDO_ZJCT",
+        "speed": 775,
+        "time": "2024-11-09 19:53:43"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.254.95",
-        "latency": 172,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2024-11-09 19:45:38"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.21.230.209",
-        "latency": 153,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2024-11-09 19:45:22"
-    },
-    {
-        "colo": "IAD",
-        "ip": "104.24.170.182",
-        "latency": 201,
+        "ip": "104.21.106.13",
+        "latency": 179,
         "line": "CT",
         "loss": 0,
         "node": "QIXJSCT",
-        "speed": 275,
-        "time": "2024-11-09 19:43:37"
+        "speed": 305,
+        "time": "2024-11-09 19:53:26"
     },
     {
-        "colo": "HKG",
-        "ip": "104.22.61.165",
-        "latency": 181,
+        "colo": "LAX",
+        "ip": "162.159.255.42",
+        "latency": 168,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2024-11-09 19:55:36"
+    },
+    {
+        "colo": "HKG",
+        "ip": "104.17.77.219",
+        "latency": 184,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
+        "speed": 290,
+        "time": "2024-11-09 19:53:32"
+    },
+    {
+        "colo": "LHR",
+        "ip": "104.21.52.111",
+        "latency": 187,
+        "line": "CT",
+        "loss": 0,
+        "node": "QIXJSCT",
         "speed": 260,
-        "time": "2024-11-09 19:45:53"
+        "time": "2024-11-09 19:53:38"
     },
     {
         "colo": "IAD",
