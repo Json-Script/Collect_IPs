@@ -11,6 +11,26 @@
     },
     {
         "colo": "Default",
+        "ip": "172.67.154.57",
+        "latency": 181,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 835,
+        "time": "2024-11-14 04:55:18"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.253.139",
+        "latency": 193,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 835,
+        "time": "2024-11-14 04:55:18"
+    },
+    {
+        "colo": "Default",
         "ip": "172.67.99.167",
         "latency": 199,
         "line": "CM",
@@ -30,44 +50,34 @@
         "time": "2024-11-14 04:37:45"
     },
     {
-        "colo": "Default",
-        "ip": "172.67.89.149",
-        "latency": 199,
-        "line": "CM",
+        "colo": "SJC",
+        "ip": "172.64.108.63",
+        "latency": 190,
+        "line": "CT",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 775,
-        "time": "2024-11-14 04:26:04"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.1.161",
-        "latency": 214,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 705,
-        "time": "2024-11-14 04:26:04"
+        "node": "SDO_ZJCT",
+        "speed": 935,
+        "time": "2024-11-14 04:56:47"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.249.22",
-        "latency": 182,
+        "ip": "172.67.233.222",
+        "latency": 171,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 645,
-        "time": "2024-11-14 04:49:43"
+        "node": "SDO_ZJCT",
+        "speed": 745,
+        "time": "2024-11-14 04:53:29"
     },
     {
-        "colo": "HKG",
-        "ip": "172.67.36.141",
-        "latency": 176,
+        "colo": "CDG",
+        "ip": "172.67.229.11",
+        "latency": 172,
         "line": "CT",
         "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 620,
-        "time": "2024-11-14 04:49:43"
+        "node": "SDO_ZJCT",
+        "speed": 625,
+        "time": "2024-11-14 04:56:48"
     },
     {
         "colo": "CDG",
@@ -88,16 +98,6 @@
         "node": "SDO_ZJCT",
         "speed": 570,
         "time": "2024-11-14 04:50:09"
-    },
-    {
-        "colo": "IAD",
-        "ip": "172.67.13.90",
-        "latency": 236,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 260,
-        "time": "2024-11-14 04:49:45"
     },
     {
         "colo": "NRT",
