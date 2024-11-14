@@ -21,13 +21,13 @@
     },
     {
         "colo": "Default",
-        "ip": "172.67.202.66",
-        "latency": 196,
+        "ip": "172.67.62.17",
+        "latency": 204,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 485,
-        "time": "2024-11-13 15:09:18"
+        "speed": 640,
+        "time": "2024-11-13 15:39:19"
     },
     {
         "colo": "HKG",
@@ -50,54 +50,54 @@
         "time": "2024-11-13 15:28:35"
     },
     {
-        "colo": "HKG",
-        "ip": "172.67.31.57",
-        "latency": 203,
+        "colo": "SJC",
+        "ip": "172.64.161.105",
+        "latency": 216,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 1110,
+        "time": "2024-11-13 15:35:23"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.152.132",
+        "latency": 199,
+        "line": "CT",
+        "loss": 0,
+        "node": "SDO_ZJCT",
+        "speed": 640,
+        "time": "2024-11-13 15:38:48"
+    },
+    {
+        "colo": "IAD",
+        "ip": "172.67.108.59",
+        "latency": 228,
         "line": "CT",
         "loss": 0,
         "node": "SDO_HBCT",
-        "speed": 625,
-        "time": "2024-11-13 15:29:42"
+        "speed": 305,
+        "time": "2024-11-13 15:39:45"
     },
     {
-        "colo": "LAX",
-        "ip": "104.16.118.49",
-        "latency": 145,
+        "colo": "LHR",
+        "ip": "172.67.184.27",
+        "latency": 235,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-13 15:33:17"
+        "node": "SDO_HBCT",
+        "speed": 295,
+        "time": "2024-11-13 15:39:45"
     },
     {
-        "colo": "LAX",
-        "ip": "104.21.230.138",
-        "latency": 167,
+        "colo": "LHR",
+        "ip": "172.67.186.190",
+        "latency": 206,
         "line": "CT",
         "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-13 15:33:35"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.19.241.174",
-        "latency": 159,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 310,
-        "time": "2024-11-13 15:33:29"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.19.8.245",
-        "latency": 151,
-        "line": "CT",
-        "loss": 0,
-        "node": "QIXJSCT",
-        "speed": 260,
-        "time": "2024-11-13 15:33:23"
+        "node": "SDO_HBCT",
+        "speed": 265,
+        "time": "2024-11-13 15:39:45"
     },
     {
         "colo": "FRA",
