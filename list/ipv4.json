@@ -1,13 +1,33 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.154.114",
-        "latency": 194,
+        "ip": "162.159.240.213",
+        "latency": 198,
         "line": "CM",
         "loss": 0,
         "node": "51C_SDCM",
-        "speed": 925,
-        "time": "2024-11-15 05:38:15"
+        "speed": 840,
+        "time": "2024-11-15 05:55:40"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.241.234",
+        "latency": 208,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 775,
+        "time": "2024-11-15 05:55:40"
+    },
+    {
+        "colo": "Default",
+        "ip": "162.159.193.79",
+        "latency": 204,
+        "line": "CM",
+        "loss": 0,
+        "node": "51C_SDCM",
+        "speed": 590,
+        "time": "2024-11-15 05:55:41"
     },
     {
         "colo": "Default",
@@ -30,24 +50,14 @@
         "time": "2024-11-15 05:44:04"
     },
     {
-        "colo": "Default",
-        "ip": "172.64.169.150",
-        "latency": 203,
-        "line": "CM",
+        "colo": "SJC",
+        "ip": "172.64.98.178",
+        "latency": 170,
+        "line": "CT",
         "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 490,
-        "time": "2024-11-15 05:44:04"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.113.191",
-        "latency": 205,
-        "line": "CM",
-        "loss": 0,
-        "node": "51C_SDCM",
-        "speed": 275,
-        "time": "2024-11-15 05:38:18"
+        "node": "SDO_ZJCT",
+        "speed": 1260,
+        "time": "2024-11-15 05:51:18"
     },
     {
         "colo": "LHR",
@@ -81,23 +91,13 @@
     },
     {
         "colo": "IAD",
-        "ip": "172.67.56.240",
-        "latency": 234,
-        "line": "CT",
-        "loss": 0,
-        "node": "SDO_HBCT",
-        "speed": 750,
-        "time": "2024-11-15 05:49:43"
-    },
-    {
-        "colo": "SJC",
-        "ip": "172.64.103.118",
-        "latency": 148,
+        "ip": "172.67.121.142",
+        "latency": 206,
         "line": "CT",
         "loss": 0,
         "node": "SDO_ZJCT",
-        "speed": 570,
-        "time": "2024-11-15 05:48:01"
+        "speed": 740,
+        "time": "2024-11-15 05:54:36"
     },
     {
         "colo": "NRT",
